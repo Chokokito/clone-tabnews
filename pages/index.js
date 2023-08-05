@@ -1,5 +1,5 @@
 function Home(){
-    return <h1> Count on me. I love u ❤️</h1>
+    return <h1> Conta comigo pra tudo. Te amo ❤️</h1>
 }
 
 export default Home;
